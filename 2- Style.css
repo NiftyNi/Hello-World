@@ -1,0 +1,19 @@
+body {
+    background-color: orchid;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: .50;
+    border-image: auto 
+    
+
+.intro {
+    color: green;
+  }
+  .odd {
+    color: blue;
+  }
+  .even {
+    color: red;
+    background-color: limegreen
+  }
